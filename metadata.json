@@ -1,0 +1,6 @@
+{
+  "name": "AI Tool Store - SaaS Dark Premium Marketplace",
+  "description": "Nền tảng mua bán Tool AI, Prompt VIP và Workflow tự động hóa chất lượng cao với thanh toán VietQR và duyệt đơn nhanh chóng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
